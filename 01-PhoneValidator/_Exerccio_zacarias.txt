@@ -1,0 +1,7 @@
+Crie um programa que identifique se um número de telefone é valido.
+Exemplos números inválidos:
+1 Números que começam, com: +244
+2 Números que começam, com: 999, 900, 909
+3 Tamanho de caracteres: > 9
+4 Primeiro número:  != 9
+4 Números validos, que começam: 92, 93, 94, 91, 95, 99

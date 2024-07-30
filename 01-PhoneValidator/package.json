@@ -1,0 +1,21 @@
+{
+  "name": "phonevalidator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Cláudio Fernando",
+  "type": "module",
+  "scripts": {
+    "test": "mocha",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "phonevalidator",
+    "PhoneChack"
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.7.0"
+  }
+}
